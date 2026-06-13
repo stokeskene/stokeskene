@@ -1,6 +1,6 @@
 # Hi, I'm Ken Stokes 👋
 
-**Vendor Risk Analyst | GRC | AI Governance | Third-Party Risk Management**
+**Technology Risk Professional | GRC | AI Governance | Third-Party Risk Management**
 
 I'm a risk and compliance professional focused on building practical, framework-aligned programs for emerging technology — especially AI and cloud vendors. I'm currently developing a self-directed portfolio series on AI vendor risk management to demonstrate how TPRM programs need to evolve to address LLM supply chains, training data use, and AI-specific governance gaps.
 
