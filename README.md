@@ -21,8 +21,6 @@ I'm a risk and compliance professional focused on building practical, framework-
 
 A full TPRM lifecycle applied to 10 AI customer support platforms on behalf of a simulated healthcare client. Built from scratch — including a purpose-built 52-question DDQ with AI-specific controls not found in standard templates.
 
-**In scope:** Zendesk, Intercom, Ada, Salesforce, Freshworks, Forethought, Aisera, Tidio, Kustomer, Cognigy
-
 **Frameworks:** NIST AI RMF 1.0 · NIST SP 800-161r1
 
 **What's included:**
