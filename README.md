@@ -28,7 +28,7 @@ A full TPRM lifecycle applied to 10 AI customer support platforms on behalf of a
 - Pre-filled vendor DDQs sourced from public trust centers (Conveyor, SafeBase, Vanta)
 - NIST framework mapping matrix and vendor risk tracker
 - Vendor outreach templates and follow-up documentation
-- Active assessments: Zendesk (complete), Intercom (DDQ issued), Ada (DDQ issued)
+
 
 ---
 
