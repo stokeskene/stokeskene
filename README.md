@@ -45,7 +45,7 @@ A full TPRM lifecycle applied to 10 AI customer support platforms on behalf of a
 
 - 📧 kenneth@schillerindustries.co
 - 📧 stokes.e.ken@gmail.com
-- 🏢 Schiller Clark Industries
+
 
 ---
 
